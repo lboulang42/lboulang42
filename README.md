@@ -5,13 +5,14 @@
   </a>
 </p>
 <h1 align="center">42 Projects:</h1>
-
+<hr></hr>
 <h2 align="center">RANK 00</h2>
 <h3>
 
 <a align="left" href="https://github.com/lboulang42/42-libft">LIBFT <img align="right" src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2869067" alt="lboulang's 42 Libft Score" /></a>
 
 </h3>
+<hr></hr>
 <h2 align="center">RANK 01</h2>
 <h3>
 
@@ -24,6 +25,7 @@
 <a align="left" href="https://github.com/lboulang42/">BORN2BEROOT  <img align="right" src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2900498" alt="lboulang's 42 Born2beroot Score" /></a>
 
 </h3>
+<hr></hr>
 <h2 align="center">RANK 02</h2>
 <h3>
 
