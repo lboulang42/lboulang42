@@ -5,17 +5,13 @@
   </a>
 </p>
 <h1 align="center">42 Projects:</h1>
-<hr>
 <h2 align="center">RANK 00</h2>
-</hr>
 <h3>
 
 <a align="left" href="https://github.com/lboulang42/42-libft">LIBFT <img align="right" src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2869067" alt="lboulang's 42 Libft Score" /></a>
 
 </h3>
-<hr>
 <h2 align="center">RANK 01</h2>
-</hr>
 <h3>
 
 <a align="left" href="https://github.com/lboulang42/42-ft_printf">FT_PRINTF  <img align="right" src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2880258" alt="lboulang's 42 ft_printf Score" /></a>
@@ -27,9 +23,7 @@
 <a align="left" href="https://github.com/lboulang42/">BORN2BEROOT  <img align="right" src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2900498" alt="lboulang's 42 Born2beroot Score" /></a>
 
 </h3>
-<hr>
 <h2 align="center">RANK 02</h2>
-</hr>
 <h3>
 
 <a align="left" href="https://github.com/lboulang42/42-so_long.git">SO_LONG  <img align="right" src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/3051996" alt="lboulang's 42 so_long Score" /></a>
