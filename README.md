@@ -14,10 +14,10 @@
 </h3>
 <h2 align="center">RANK 01</h2>
 <h3>
-<a align="left" href="https://github.com/lboulang42/42-ft_printf">FT_PRINTF<img align="right" src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2880258" alt="lboulang's 42 ft_printf Score" /></a>
+<a align="left" href="https://github.com/lboulang42/42-ft_printf">FT_PRINTF  <img align="right" src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2880258" alt="lboulang's 42 ft_printf Score" /></a>
 
 
-<a align="left" href="https://github.com/lboulang42/42-get_next_line">GET_NEXT_LINE<img align="right" src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2900497" alt="lboulang's 42 get_next_line Score" /></a>
+<a align="left" href="https://github.com/lboulang42/42-get_next_line">GET_NEXT_LINE  <img align="right" src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2900497" alt="lboulang's 42 get_next_line Score" /></a>
 
 
 <a align="left" href="https://github.com/lboulang42/">BORN2BEROOT  <img align="right" src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2900498" alt="lboulang's 42 Born2beroot Score" /></a>
