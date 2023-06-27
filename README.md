@@ -16,9 +16,10 @@
 <a href="https://github.com/lboulang42/">  BORN2BEROOT  <img src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2900498" alt="lboulang's 42 Born2beroot Score" /></a>
 
 <h2 align="center">RANK 02</h2>
-
+<h3>
 <a href="git@github.com:lboulang42/42-so_long.git">  SO_LONG  <img src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/3051996" alt="lboulang's 42 so_long Score" /></a>
 <a href="https://github.com/lboulang42/42-push_swap">  PUSH_SWAP  <img src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/3051995" alt="lboulang's 42 push_swap Score" /></a>
 <a href="https://github.com/lboulang42/42-pipex">  PIPEX  <img src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/3055481" alt="lboulang's 42 pipex Score" /></a>
 <a href="https://github.com/lboulang42/">  EXAM RANK 02  <img src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/3051997" alt="lboulang's 42 Exam Rank 02 Score" /></a>
+</h3>
 <h1 align="center">
