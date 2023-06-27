@@ -8,6 +8,8 @@
 <a href="https://github.com/JaeSeoKim/badge42">
   <img src="https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2869067" alt="lboulang's 42 Libft Score"/>
 </a>
+[![lboulang's 42 Libft Score](https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/2869067)](https://github.com/JaeSeoKim/badge42)
+
 
 
 <h1 align="center">
